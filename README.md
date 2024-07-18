@@ -11,3 +11,6 @@ git push origin main (enviar para git)
 git pull origin main (puxar do git)
 
 git reset --hard origin/main
+
+
+fghfgh
